@@ -1,0 +1,7 @@
+extract-text-webpack-plugin is deprcated, 
+but runing the command of npm install will the webpack v4.3.5, but it will ouput a lot of errors
+
+For now the best match is webpac@1.15.0 & extract-text-webpack-plug@1.0.2
+
+cause of webpack is upgrade to 4.x, the extract-text-webpack-plugin the next version is mini-css-extract-plugin
+
